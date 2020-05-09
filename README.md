@@ -3,7 +3,7 @@
 ![swan](swan.jpg)
 
 ##### HTML
-This fails in PyCharm.<br>
+This fails in PyCharm. https://youtrack.jetbrains.com/issue/IDEA-229508<br>
 <img src="swan.jpg" alt="swan">
 
 #### Absolute path
